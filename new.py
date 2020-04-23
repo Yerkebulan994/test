@@ -1,1 +1,1 @@
-print("MASTER")
+print("new")
